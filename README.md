@@ -1,1 +1,2 @@
 # python-vscode-snippet
+vscodeで使うAtcoderの問題を解く際に使うスニペットをまとめていきます
