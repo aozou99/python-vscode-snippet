@@ -1,0 +1,8 @@
+{
+	"Map Int": {
+		"prefix": "map(int",
+		"body": [
+			"map(int, input().split())"
+		]
+	}
+}
